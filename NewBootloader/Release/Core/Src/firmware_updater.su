@@ -1,0 +1,8 @@
+/home/ashish/Practice/NewBootloader/Core/common_libr/InterfaceStream/InterfaceStream.h:35:19:InterfaceStream& InterfaceStream::operator<<(const char (&)[N]) [with unsigned int N = 3]	8	static
+/home/ashish/Practice/NewBootloader/Core/common_libr/InterfaceStream/InterfaceStream.h:68:25:InterfaceStream& endl(InterfaceStream&)	8	static
+/home/ashish/Practice/NewBootloader/Core/common_libr/InterfaceStream/InterfaceStream.h:48:19:InterfaceStream& InterfaceStream::operator<<(InterfaceStream& (*)(InterfaceStream&))	0	static
+/home/ashish/Practice/NewBootloader/Core/common_libr/buffering/safe_string.hpp:63:10:void BaseString::append_no(int32_t)	40	static
+../Core/Src/firmware_updater.cpp:271:6:void jump_to_app()	16	static,ignoring_inline_asm
+../Core/Src/firmware_updater.cpp:365:10:uint32_t calculate_crc32(const uint8_t*, size_t)	8	static
+/home/ashish/Practice/NewBootloader/Core/common_libr/InterfaceStream/InterfaceStream.h:53:19:InterfaceStream& InterfaceStream::operator<<(const T&) [with T = HexFormat]	56	static
+../Core/Src/firmware_updater.cpp:129:9:ACKFLAG bootloader_handler(const uint8_t*, uint16_t, uint8_t)	64	static

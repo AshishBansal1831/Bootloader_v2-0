@@ -1,0 +1,1 @@
+../Core/common_libr/crc/crc16_table.cpp:48:10:uint16_t calculate_crc16(const uint8_t*, size_t, uint16_t)	12	static

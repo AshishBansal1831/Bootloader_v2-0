@@ -1,0 +1,2 @@
+../Core/Src/flash.c:11:19:write_bank	3
+../Core/Src/flash.c:48:19:EraseFlash	2

@@ -1,0 +1,2 @@
+../Core/Src/flash.c:11:19:write_bank	24	static,ignoring_inline_asm
+../Core/Src/flash.c:48:19:EraseFlash	40	static,ignoring_inline_asm

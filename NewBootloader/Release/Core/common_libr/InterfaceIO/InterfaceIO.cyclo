@@ -1,0 +1,2 @@
+../Core/common_libr/InterfaceIO/InterfaceIO.h:44:7:void InterfaceIO::print(const char*)	1
+../Core/common_libr/InterfaceIO/InterfaceIO.cpp:21:8:size_t InterfaceIO::get_string_input(char*, size_t, const char*)	6

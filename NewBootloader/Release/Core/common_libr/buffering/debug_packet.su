@@ -1,0 +1,8 @@
+../Core/common_libr/buffering/debug_packet.cpp:5:18:DebugPacketBase& DebugPacketBase::operator<<(uint8_t)	16	static
+../Core/common_libr/buffering/debug_packet.cpp:11:18:DebugPacketBase& DebugPacketBase::operator<<(uint16_t)	16	static
+../Core/common_libr/buffering/debug_packet.cpp:16:18:DebugPacketBase& DebugPacketBase::operator<<(uint32_t)	16	static
+../Core/common_libr/buffering/debug_packet.cpp:22:18:DebugPacketBase& DebugPacketBase::operator<<(const char*)	16	static
+../Core/common_libr/buffering/debug_packet.cpp:28:18:DebugPacketBase& DebugPacketBase::operator<<(int8_t)	16	static
+../Core/common_libr/buffering/debug_packet.cpp:34:18:DebugPacketBase& DebugPacketBase::operator<<(int16_t)	16	static
+../Core/common_libr/buffering/debug_packet.cpp:40:18:DebugPacketBase& DebugPacketBase::operator<<(int32_t)	16	static
+../Core/common_libr/buffering/debug_packet.cpp:47:18:DebugPacketBase& DebugPacketBase::u8_buf(uint8_t*, uint16_t)	16	static

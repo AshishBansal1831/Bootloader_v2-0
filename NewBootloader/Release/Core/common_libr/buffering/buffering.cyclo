@@ -1,0 +1,7 @@
+../Core/common_libr/buffering/buffering.cpp:7:6:void BufferBase::add(const uint8_t*, uint16_t)	2
+../Core/common_libr/buffering/buffering.cpp:14:13:BufferBase& BufferBase::operator<<(uint8_t)	2
+../Core/common_libr/buffering/buffering.cpp:21:13:BufferBase& BufferBase::operator<<(uint16_t)	1
+../Core/common_libr/buffering/buffering.cpp:26:13:BufferBase& BufferBase::operator<<(uint32_t)	1
+../Core/common_libr/buffering/buffering.cpp:31:13:BufferBase& BufferBase::operator<<(const char*)	2
+../Core/common_libr/buffering/buffering.cpp:38:13:BufferBase& BufferBase::operator<<(const BufferBase&)	1
+../Core/common_libr/buffering/buffering.cpp:43:6:void BufferBase::print()	1
